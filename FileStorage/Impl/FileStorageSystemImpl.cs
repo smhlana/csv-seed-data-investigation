@@ -12,8 +12,8 @@ namespace ExternalSystems.FileStorage
 		{
 			if (_blobContainerClient == null)
 			{
-				var connectionString = "DefaultEndpointsProtocol=https;AccountName=icd10codes;AccountKey=akt3cxAmO3ndam45Y34MGTXAfYakffdOsebmvGH5CPm4O1ttinFQag0BFRm2FrC3wezVV2bmF5Y5Wj9tia3KgQ==;EndpointSuffix=core.windows.net";
-				var containerName = "icd10";
+				var connectionString = "";
+				var containerName = "";
 
 				_blobContainerClient = new BlobContainerClient(connectionString, containerName);
 				await _blobContainerClient.CreateIfNotExistsAsync();
