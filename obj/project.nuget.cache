@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycWNiIW/fNLPBs1O1KeuG+SQZRsieD1AcxSNnmVa5KWFTRM+1GF9hLBaCAv1dNj51jwy67I/KptDdY7X1auKIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smhla\\source\\repos\\csv-seed-data-investigation\\csv-seed-data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smhla\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\smhla\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\smhla\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\smhla\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\smhla\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\smhla\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
